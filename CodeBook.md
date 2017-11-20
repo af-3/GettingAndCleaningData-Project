@@ -1,7 +1,7 @@
 # Variables
 # Subject and Activity
 
-"Subject" : Test subject, range 1:30
+"Subject" : Test subject, range 1:30 \n
 "ActivityName" : WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 "ActivityCode" : Ranges 1:6, matched to ActivityName
 
